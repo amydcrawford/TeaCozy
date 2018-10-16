@@ -120,16 +120,7 @@
   padding: 10px;
 }
 
-.downtown {
-  display: flex;
-  flex-direction: column;
-  background-color: black;
-  width: 300px;
-  opacity: 1;
-  padding: 10px;
-  justify-content: center;
-}
-.bayside {
+.boxes {
   display: flex;
   flex-direction: column;
   background-color: black;
@@ -139,21 +130,13 @@
   justify-content: center;
 }
 
-.oakdale {
-  display: flex;
-  flex-direction: column;
-  background-color: black;
-  width: 300px;
-  opacity: 1;
-  padding: 10px;
-  justify-content: center;
-}
   /* Footer information*/
 
 .footer {
   height: 200px;
   width: 100%;
 }
+
 #copyright {
   padding-left: 20px;
   text-align: left;
